@@ -1,0 +1,34 @@
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# RStudio project-local files
+.Rproj.user/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary and log files
+*.tmp
+*.temp
+*.log
+
+# Generated solver logs
+solver_logs.txt
+solver_logs_PartD.txt
+
+# Generated result files; retain published CSVs already committed
+Modified_Results_PartD.csv
+
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+
+# Editor settings
+.vscode/
+.idea/
