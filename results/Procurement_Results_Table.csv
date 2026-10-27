@@ -1,0 +1,4 @@
+"Dataset","MILP_Obj_HiGHS","Runtime_HiGHS","MILP_Obj_GLPK","Runtime_GLPK","LP_Relaxation","Integrality_Gap_Percent"
+"small_data.csv",85288.95,0.09,85288.95,0.01,85288.95,0
+"medium_data.csv",8370332.65,301.42,8370332.65,397.8,8340018.73,0.3622
+"large_data.csv",10875391.22,3307.82,NA,3667.93,10828711.58,0.4292
